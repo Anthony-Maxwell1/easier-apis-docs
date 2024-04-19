@@ -1,0 +1,5 @@
+site_name: Easier Apis Docs
+nav:
+    - Home: index.md
+    - Endpoints: endpoints.md
+theme: readthedocs
